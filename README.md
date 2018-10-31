@@ -1,6 +1,7 @@
 # longconn(All for learn)
 Netty based http proxy server, support push, and long connection based async http client(All for learn), 
 Suitable for App unified HTTP API gateway, security, high performance and support for high concurrency.
+https://github.com/huoyijie/longconn
 
 # modules
 1.http proxy server(push proxy)
