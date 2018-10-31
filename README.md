@@ -4,16 +4,24 @@ Suitable for App unified HTTP API gateway, security, high performance and suppor
 
 # modules
 1.http proxy server(push proxy)
+
 2.async http client(thread pool)
+
 3.codec encoder/decoder(messagepack)
+
 4.command protocal(httprequest, httpresponse, pushrequest, heartbeat)
 
 # features
 1.long connection based netty
+
 2.support GET/POST http(s)
+
 3.support push
+
 4.ssl/gzip
+
 5.async http client, support future/callback
+
 6.messagepack serialization
 
 # reference
